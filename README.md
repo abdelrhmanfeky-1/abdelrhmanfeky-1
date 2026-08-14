@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AbdelRhman Khaled
 
-### 📊 Professional Data Analyst | Power BI | SQL | Excel | Python
+### 📊 Data Analyst | Power BI | SQL | Excel | Python
 
 I'm a **Professional Data Analyst** passionate about transforming raw data into meaningful insights and actionable business solutions.
 
@@ -182,4 +182,4 @@ Data-Driven Decisions
 
 ### 💬 "Turning Data into Insights, and Insights into Decisions."
 
-⭐ Feel free to explore my repositories and projects!
+   ⭐ Feel free to explore my repositories and projects!
