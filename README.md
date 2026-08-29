@@ -116,6 +116,17 @@ An interactive, interactive enterprise sales dashboard analyzing business perfor
 
 🔗 **Repository:** [Sales-Dashboard](https://github.com/abdelrhmanfeky-1/Sales-Dashboard)
 
+### ⚽ 6. YallaKora Multi-Sport Match Scraper & ETL Pipeline
+
+An automated Python data pipeline that scrapes, cleans, and standardizes multi-sport match records and historical scores from YallaKora into analytical datasets.
+Key Features:
+Automated Multi-Sport HTML DOM Parsing (BeautifulSoup & Requests)
+Dynamic Date Iteration Pipeline across Custom Historical Ranges
+Rate Limiting & Server Politeness Implementation (`time.sleep` throttling)
+Structured Data Normalization & Multi-League Schema Standardizing (Pandas)
+Automated Batch Dataset Export to Microsoft Excel (`matches2.xlsx`)
+🔗 Repository: YallaKora-Multi-Sport-Match-Scraper-ETL-Pipeline
+
 ---
 
 ## 📚 Data Analytics Workflow
