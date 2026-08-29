@@ -179,17 +179,14 @@ Business Intelligence Strategy & Analytics Design
 
 ## 👤 Author
 
-Abdelrhman Khaled
+**Abdelrhman Khaled**  
+*Data Analyst | Power BI | SQL | Python | Excel*  
 
-Data Analyst | Power BI | SQL | Python | Excel
+- 🔗 **LinkedIn:** [Abdelrhman Khaled](https://www.linkedin.com/in/abdel-rhman-khaled)  
+- ✉️ **Email:** abdelrhmanfeky@gmail.com
+🌐 GitHub Repositories: https://github.com/abdelrhmanfeky-1?tab=repositories
 
-🔗 LinkedIn: Abdelrhman Khaled
-
-✉️ Email: abdelrhmanfeky@gmail.com
-
-🌐 GitHub Repositories: abdelrhmanfeky-1
-
-##🤝 Let's Connect
+## 🤝 Let's Connect
 
 💬 "Turning Data into Insights, and Insights into Decisions."
 ⭐ Feel free to explore my repositories and reach out for collaboration!
