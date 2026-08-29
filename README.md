@@ -133,3 +133,64 @@ Interactive Visualizations & Machine Learning
        ↓
 Business Insights & Strategic Decisions
 ```
+
+## 📊 What I Can Do
+✔️ Data Cleaning, Transformation & ETL Pipeline Setup
+
+✔️ SQL / T-SQL Query Optimization & Analytics
+
+✔️ Exploratory Data Analysis (EDA) using Python
+
+✔️ Interactive Power BI Dashboards & Data Modeling
+
+✔️ Dynamic DAX Measures, KPIs & Time Intelligence Calculations
+
+✔️ Predictive Machine Learning Modeling (Scikit-Learn)
+
+✔️ Interactive Spatial & Geospatial Data Visualizations
+
+✔️ Business Performance & Revenue Trend Reporting
+
+## 🎓 Certifications & Professional Learning
+
+Microsoft Power Platform Fundamentals – PL-900
+
+Microsoft Certified: Power BI Data Analyst Associate
+
+Data Analysis Training Track – Digilians
+
+Python for Data Analysis – Huawei Academy
+
+Google Data Analytics Professional Certificate
+
+Coursera & Microsoft Data Science Specializations
+
+## 📈 Currently Learning & Expanding Skills
+
+Advanced T-SQL & Query Optimization
+
+Advanced DAX Patterns & Performance Tuning
+
+Enterprise Data Warehousing & ETL Architecture
+
+Python Data Engineering & Machine Learning
+
+Business Intelligence Strategy & Analytics Design
+
+## 👤 Author
+
+Abdelrhman Khaled
+
+Data Analyst | Power BI | SQL | Python | Excel
+
+🔗 LinkedIn: Abdelrhman Khaled
+
+✉️ Email: abdelrhmanfeky@gmail.com
+
+🌐 GitHub Repositories: abdelrhmanfeky-1
+
+##🤝 Let's Connect
+
+💬 "Turning Data into Insights, and Insights into Decisions."
+⭐ Feel free to explore my repositories and reach out for collaboration!
+
